@@ -15,9 +15,9 @@ iframe {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.card-title {
+.card .card-content .card-title {
   float: left;
-  font-size: 24px;
+  font-size: 32px;
   padding: 2rem 0 2rem 0;
   font-weight: 500;
   margin-bottom: 16px;
