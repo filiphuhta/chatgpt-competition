@@ -28,12 +28,16 @@ iframe {
   background-color: #701131;
   color: #FAFAFA;
   text-transform: uppercase;
-  padding: 24px 24px;
+  padding: 16px 16px;
   border-radius: 4px;
   text-decoration: none;
   font-weight: 500;
   transition: background-color 0.2s;
   top: 2rem;
+}
+
+.card-content {
+  padding: 4rem;
 }
 
 .card-link:hover {
