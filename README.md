@@ -1,2 +1,2 @@
-# ChatGPT compentition website
+# ChatGPT competition website
 Repository for a ChatGPT competition at Consid
